@@ -21,6 +21,9 @@ author_profile: true
 
 ## International Development
 
+* **Consultant on Water Supply and Behavior Change**, The World Bank, South Asia Water and Sanitation (2023–2025)
+  * Designed and field tested a behavior change strategy to support a rural water supply project for 65 million people in Karnataka state in India.
+
 * **Consultant on Social Protection**, United Nations Capital Development Fund (2008–2009)
 * **Junior Professional Associate**, The World Bank, South Asia Human Development (2005–2007)
 * **Consultant on Social Protection**, The World Bank, South Asia Human Development (2005)
