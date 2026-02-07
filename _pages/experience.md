@@ -8,7 +8,7 @@ author_profile: true
 ## Industry
 
 * **Lead Quantitative Researcher**, Facebook Trust & Safety, Meta Inc. (2022–present)
-  * Supporting ranking and distribution teams to classify and reduce harmful experiences while improving meaningful interactions across Facebook surfaces.
+  * Supporting ranking and distribution teams to classify and reduce harmful experiences while improving meaningful interactions across Facebook surfaces. Developing content understanding frameworks and measurement strategies to evaluate the effectiveness of integrity interventions.
 
 * **Lead Quantitative Researcher**, Facebook Growth, Meta Inc. (2021–2022)
   * Led research on friending and social graph management, combining survey research with behavioral data and applied analytical methods to improve user experiences around social connection and safety.
