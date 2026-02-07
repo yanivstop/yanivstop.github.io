@@ -26,7 +26,7 @@ author_profile: true
 * **Consultant on Social Protection**, The World Bank, South Asia Human Development (2005)
   * Policy research on social protection, gender, vocational education, and poverty in South Asia. Co-authored World Bank development series papers on Bangladesh.
 
-## Earlier Roles
+## Early Career Roles
 
 * **Research Associate**, Israeli Committee Against Housing Demolitions (2002–2003)
 * **Program Associate**, Sahe Institute for Liberation, Timor Leste (2000–2002)
