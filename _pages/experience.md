@@ -28,8 +28,9 @@ author_profile: true
   * Conducted an on-the-ground capacity assessment of local government bodies in Lao PDR to evaluate their ability to deliver social welfare programs for the poor.
 
 * **Junior Professional Associate**, The World Bank, South Asia Human Development (2005–2007)
-* **Consultant on Social Protection**, The World Bank, South Asia Human Development (2005)
   * Policy research on social protection, gender, vocational education, and poverty in South Asia. Co-authored World Bank development series papers on Bangladesh.
+
+* **Consultant on Social Protection**, The World Bank, South Asia Human Development (2005)
 
 ## Early Career Roles
 
