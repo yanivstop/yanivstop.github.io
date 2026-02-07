@@ -25,6 +25,8 @@ author_profile: true
   * Designed and field tested a behavior change strategy to support a rural water supply project for 65 million people in Karnataka state in India.
 
 * **Consultant on Social Protection**, United Nations Capital Development Fund (2008–2009)
+  * Conducted an on-the-ground capacity assessment of local government bodies in Lao PDR to evaluate their ability to deliver social welfare programs for the poor.
+
 * **Junior Professional Associate**, The World Bank, South Asia Human Development (2005–2007)
 * **Consultant on Social Protection**, The World Bank, South Asia Human Development (2005)
   * Policy research on social protection, gender, vocational education, and poverty in South Asia. Co-authored World Bank development series papers on Bangladesh.
