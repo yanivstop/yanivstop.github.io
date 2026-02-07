@@ -7,8 +7,11 @@ author_profile: true
 
 ## Industry
 
-* **Lead Quantitative Researcher**, Facebook Integrity, Meta Inc. (2021–present)
-  * Applied econometrician on Trust & Safety, using empirical methods to understand and address integrity challenges at scale.
+* **Lead Quantitative Researcher**, Facebook Trust & Safety, Meta Inc. (2022–present)
+  * Supporting ranking and distribution teams to classify and reduce harmful experiences while improving meaningful interactions across Facebook surfaces.
+
+* **Lead Quantitative Researcher**, Facebook Growth, Meta Inc. (2021–2022)
+  * Led research on friending and social graph management, combining survey research with behavioral data and applied analytical methods to improve user experiences around social connection and safety.
 
 ## Academia
 
